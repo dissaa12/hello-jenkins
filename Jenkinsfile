@@ -32,7 +32,7 @@ pipeline {
 
     environment {
         REGION   = 'ap-south-1'
-        ACCOUNT  = '123456789012'
+        ACCOUNT = '116948313314'
         REPO     = 'hello-jenkins'
         INSTANCE = 'none'
 
